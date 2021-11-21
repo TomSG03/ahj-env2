@@ -17,10 +17,11 @@
     "show:doc": "live-server doc",
     "preshow:dist": "npm run build",
     "show:dist": "live-server dist",
-    "deploy": "push-dir --dir=dist --branch=gh-pages --force --verbose"
+    "deploy": "gh-pages -d dist"
   },
   "author": "coursar",
   "license": "MIT",
+  "homepage": "https://github.com/TomSG03/ahj-env2",
   "devDependencies": {
     "@babel/cli": "^7.12.10",
     "@babel/core": "^7.12.10",
@@ -30,6 +31,7 @@
     "eslint": "^7.17.0",
     "eslint-config-airbnb-base": "^14.2.1",
     "eslint-plugin-import": "^2.22.1",
+    "gh-pages": "^3.2.3",
     "html-loader": "^1.3.2",
     "html-webpack-plugin": "^4.5.1",
     "jest": "^27.3.1",
