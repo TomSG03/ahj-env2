@@ -9,4 +9,4 @@
 [![CircleCI](https://circleci.com/gh/TomSG03/ahj-env2/tree/main.svg?style=svg)](https://circleci.com/gh/TomSG03/ahj-env2/tree/main)
 
 ---
-[Спискок курсов](https://github.com/TomSG03/ahs-homeworks-list)
+[Спискок задач](https://github.com/TomSG03/ahs-homeworks-list)
